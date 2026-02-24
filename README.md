@@ -1,2 +1,2 @@
 # Delta
-This is practice 
+This is practice .
